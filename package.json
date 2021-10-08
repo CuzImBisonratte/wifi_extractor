@@ -1,6 +1,6 @@
 {
   "name": "wifi-extractor",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A program to extract all the wifi-passwords from a windows pc",
   "main": "app.js",
   "scripts": {
