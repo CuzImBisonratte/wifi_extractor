@@ -1,0 +1,28 @@
+{
+  "name": "wifi-extractor",
+  "version": "1.0.0",
+  "description": "A program to extract all the wifi-passwords from a windows pc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CuzImBisonratte/wifi-extractor.git"
+  },
+  "keywords": [
+    "wifi",
+    "extractor",
+    "password",
+    "wlan"
+  ],
+  "author": "CuzImBisonratte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CuzImBisonratte/wifi-extractor/issues"
+  },
+  "homepage": "https://github.com/CuzImBisonratte/wifi-extractor#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
