@@ -12,7 +12,7 @@ Das Skript funktioniert auch ohne Datenbank, kann dann aber nichts speichern.
 - `node app.js` ausführen
 
 # Testdateien
-1. Testdateien.zip hier herunterladen -> [WLAN-Testfiles.zip](https://github.com/CuzImBisonratte/wifi_extractor/files/7315389/WLAN-Testfiles.zip)
+1. Testdateien hier herunterladen -> [WLAN-Testfiles.zip](https://github.com/CuzImBisonratte/wifi_extractor/files/7315389/WLAN-Testfiles.zip)
 2. Im XMLs Ordner entpacken
 3. Programm laufen lassen wie normal
 
