@@ -6,3 +6,7 @@ Das Skript funktioniert auch ohne Datenbank, kann dann aber nichts speichern.
 - nodejs
 - windows
 - sql-datenbank
+
+# Ausführen
+- Konsole starten
+- `node app.js` ausführen
