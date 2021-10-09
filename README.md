@@ -28,5 +28,5 @@ Das Skript funktioniert auch ohne Datenbank, kann dann aber nichts speichern.
 |WLAN-yomekope-wifi.xml|yomekope-wifi|653459727375933677|QBZ|KWC6BAK|
 |WLAN-wifi-lufurudo.xml|wifi-lufurudo|-|none|open|
 
-- 1-3 Sind simple Namen und Passwords, mit existierenden authentifizierungs-/verschlüsselungsstandarts
-- 4-6 Are random names and passwords, mit nicht existierenden authentifizierungs-/verschlüsselungsstandarts
+- 1-3 Sind simple Namen und Passwörter, mit existierenden authentifizierungs-/verschlüsselungsstandarts
+- 4-6 Sind zufällige Namen und Passwörter, mit nicht existierenden authentifizierungs-/verschlüsselungsstandarts
